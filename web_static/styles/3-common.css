@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular, "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* Icon in the browser tab */
+link[rel="icon"] {
+	/* Path to image icon */
+	background-image: url("https://github.com/SandileG/AirBnB_clone/blob/1370531da073b601f31eadb9afb1dc5e006310cd/web_static/images/icon.png");
+}
